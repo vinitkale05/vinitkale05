@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a software developer who enjoys building rel
 
 ## 🚀 Selected Projects
 - Project A — one-line description. Link: https://websecur.vercel.app/
-- Project B — one-line description. Link: ttps://prediction-of-tags-in-intangles-pvt.vercel.app
+- Project B — one-line description. Link: https://prediction-of-tags-in-intangles-pvt.vercel.app
 
 ## 📊 GitHub Stats
 <p align="center">
